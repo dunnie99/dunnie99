@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-My name is **Dunni**, I am a Solidity Smart Contract Developer
+My name is **Dunni**, I am a Javasript and Solidity Smart Contract Intern
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnie99&show_icons=true&theme=radical)
 
@@ -9,7 +9,7 @@ My name is **Dunni**, I am a Solidity Smart Contract Developer
 - :dancers: I’m looking to collaborate on all sort of interesting thing
 - :thinking_face: I’m looking for help with interesting things
 - :speech_bubble: Ask me about interesting things
-- :mailbox: How to reach me: [@oluwadunsduns](https://twitter.com/oluwadunsduns)
-- :smile: Pronouns: That Tech Sis
+- :mailbox: How to reach me: [@LaDunnie99](https://twitter.com/LaDunnie99)
+- :smile: Pronouns: She/Her
 - :zap: Fun fact: I love beatiful things and places
 
