@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-My name is **Dunni**, I am a Javasript and Solidity Smart Contract Intern
+My name is **Dunnie**, I am a Javasript and Solidity Smart Contract Intern
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnie99&show_icons=true&theme=radical)
 
