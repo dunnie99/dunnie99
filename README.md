@@ -1,5 +1,5 @@
 ### Hello there :wave:
-### Welcome to my page 🤗:
+### Welcome to my page 🤗
 
 My name is **Dunnie**, I am a Javasript and Solidity Smart Contract Intern
 
