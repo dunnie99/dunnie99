@@ -11,5 +11,5 @@ My name is **Dunnie**, I am a Javasript and Solidity Smart Contract Intern
 - :speech_bubble: Ask me about interesting things
 - :mailbox: How to reach me: [@LaDunnie99](https://twitter.com/LaDunnie99)
 - :smile: Pronouns: She/Her
-- :zap: Fun fact: I love beautiful things and places
+- :zap: Fun fact: I love beatiful things and places
 
