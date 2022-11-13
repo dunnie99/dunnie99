@@ -1,7 +1,7 @@
 ### Hello there :wave:
 ### Welcome to my page 🤗
 
-My name is **Dunnie**, I am a Javasript and Solidity Smart Contract Intern
+My name is **Dunnie**, I'm learning javascript
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnie99&show_icons=true&theme=radical)
 
