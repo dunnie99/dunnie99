@@ -1,7 +1,7 @@
 ### Hello there :wave:
 ### Welcome to my page 🤗
 
-My name is **Dunnie**, I'm learning javascript
+My name is **Dunnie**, I'm learning javascript and solidity
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnie99&show_icons=true&theme=radical)
 
