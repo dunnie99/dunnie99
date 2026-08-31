@@ -1,5 +1,4 @@
 ### Hello there :wave:
-### Welcome to my page 🤗
 
 My name is **Dunnie**, I'm learning python, solidity, and cybersecurity.
 
