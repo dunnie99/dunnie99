@@ -3,7 +3,6 @@
 
 My name is **Dunnie**, I'm learning python, solidity, and cybersecurity.
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dunnie99&show_icons=true&theme=radical)
 
 - :telescope: I’m currently working on amazing things
 - :seedling: I’m learning a lot of fun things
